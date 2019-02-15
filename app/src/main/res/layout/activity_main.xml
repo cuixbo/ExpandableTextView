@@ -24,8 +24,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:DrawableAndTextGravity="left"
-            app:contentText="dfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadfdfsasdfasfdsafdsfasfdsadf"
+            app:contentText="世界那么大，你不来，谁知道你牛逼？做销售是人前光鲜，背后心酸，但也最能体现个人能力的职位。你不用担心论资排辈，只要你才华出众，用业绩证"
             app:contentTextColor="@color/colorPrimary"
+            app:contentTextSize="15sp"
             app:maxCollapsedLines="4"/>
 
         <me.chensir.expandabletextview.ExpandableTextView
